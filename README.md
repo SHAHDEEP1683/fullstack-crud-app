@@ -1,2 +1,1 @@
-# fullstack-crud-app
-User Management System | React + Spring Boot (Full Stack CRUD App)
+User Management System | React + Spring Boot (Full Stack CRUD App)  A full-stack web application that allows users to be created, read, updated, and deleted (CRUD operations).  💻 Frontend: React, Axios, Bootstrap  🚀 Backend: Spring Boot, REST API, JPA, MySQL  🌐 Built with a modular structure — frontend and backend are in separate folders for clean organization and easy deployment.
