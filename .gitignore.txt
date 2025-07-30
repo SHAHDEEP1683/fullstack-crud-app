@@ -1,0 +1,16 @@
+# Node.js (frontend)
+node_modules/
+build/
+
+# Java (Spring Boot backend)
+target/
+*.class
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
